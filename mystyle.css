@@ -1,16 +1,9 @@
 body {
-    margin: 60px auto;
-    width: 70%;
-}
-background {
+  margin: 60px auto;
+  width: 70%;
   background-image: url("./background.jpg");
   background-repeat: no-repeat;
   background-position: cover;
   background-size: cover;
   background-color: #B8E2F2;
 }
-h1 {
-  color: blue;
-  margin-left: 20px;
-}
-
