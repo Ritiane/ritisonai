@@ -1,5 +1,5 @@
 body {
-}
+
   
 background {
   background-image: url("./background.jpg");
@@ -8,7 +8,7 @@ background {
   background-size: cover;
   background-color: #B8E2F2;
 }
-
+}
 
 .outer {
    border: dashed 1px grey;
