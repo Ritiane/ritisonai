@@ -1,6 +1,6 @@
 body {
   
-div.background {
+background {
   background-image: url("./background.jpg");
   background-repeat: no-repeat;
   background-position: cover;
@@ -8,22 +8,20 @@ div.background {
   background-color: #B8E2F2;
 }
 
-div.transbox {
-  margin: 30px;
-  background-color: #ffffff;
-  border: 1px solid black;
-  opacity: 0.6;
-}
 
-div.transbox p {
-  margin: 5%;
-  font-weight: bold;
-  color: #000000;
+.outer {
+   border: dashed 1px grey;
+   width:200px;
 }
   
+.centered{
+    background-color:skyblue;
+    color:white;
+    text-align:center;
 }
 
 h1 {
   color: blue;
   margin-left: 20px;
+}
 }
