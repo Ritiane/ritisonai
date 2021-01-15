@@ -1,4 +1,5 @@
 body {
+}
   
 background {
   background-image: url("./background.jpg");
@@ -24,4 +25,4 @@ h1 {
   color: blue;
   margin-left: 20px;
 }
-}
+
