@@ -1,3 +1,7 @@
+body {
+    margin: 60px auto;
+    width: 70%;
+}
 background {
   background-image: url("./background.jpg");
   background-repeat: no-repeat;
@@ -5,8 +9,6 @@ background {
   background-size: cover;
   background-color: #B8E2F2;
 }
-
-
 h1 {
   color: blue;
   margin-left: 20px;
