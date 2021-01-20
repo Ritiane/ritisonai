@@ -7,6 +7,14 @@ body {
 }
 
 
+/* Header/logo Title */
+.header {
+  padding: 80px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+}
+
 /* Column container */
 .row {  
   display: -ms-flexbox; /* IE10 */
