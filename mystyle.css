@@ -1,6 +1,6 @@
 body {
   background-image: url("./background.jpg");
-  background-repeat: no-repeat;
+  background-repeat: no-repeat center/80%;
   background-position: cover;
   background-size: cover;
   background-color: #B8E2F2;
